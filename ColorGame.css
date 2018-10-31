@@ -1,6 +1,6 @@
 body
 {
-	background-color: #FFF7F8;
+	background-color: #232323;
 }
 
 .square
@@ -16,4 +16,18 @@ body
 {
 	max-width: 600px;
 	margin: 0 auto;
+}
+
+h1
+{
+	color: white;
+}
+
+
+#stripe
+{
+	background-color: white;
+	height: 30 px;
+	text-align: center;
+	color:black;
 }
